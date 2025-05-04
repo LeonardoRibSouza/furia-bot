@@ -41,4 +41,4 @@ Adicione o bot e envie os comandos mencionados acima para interagir com ele.
 ## Vídeo Demonstrativo
 Veja como o bot funciona no vídeo abaixo:
 
-[Assista ao vídeo](https://youtu.be/kD-9rWEKASk)
+[Assista ao vídeo](https://youtu.be/orvYqfHMDks)
